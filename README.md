@@ -1,0 +1,2 @@
+# shope
+latihan pemweb ujikom 
